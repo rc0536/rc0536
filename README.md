@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://private-user-images.githubusercontent.com/74038190/238353467-897cd757-ea1f-492d-aaf9-6d1674177e08.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA4MDgwNzcsIm5iZiI6MTcyMDgwNzc3NywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0NjctODk3Y2Q3NTctZWExZi00OTJkLWFhZjktNmQxNjc0MTc3ZTA4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzEyVDE4MDkzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyOGZhZThjMTQ4ODNkOGY5Njg3N2EzZDYyMDYzNzI0ZjQyNjVhNDU0Y2MxMjA3OWM3YjdlODY0NTMwODcyYTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.iifWGvJbqWutGvYNsVfVNtbpDmifhYE7hXUkwtz7ZKM" alt="Description" width="400"> </p>
 
+# <p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+,+this+is+Ray;Nice+to+meet+you)](https://git.io/typing-svg)
 
 # <p align="center">Hi, I'm Ray 👋. I am a Data Engineer.</p>
 
